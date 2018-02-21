@@ -7,6 +7,7 @@
 
 module.exports = {
   add: 'annoint',         // Your code's been annointed by God to be saved.
+  blame: 'convict',       // The Spirit will convict you of the sins you have committed. 
   branch: 'vine',         // He is the vine, we are the branches.
   checkout: 'resurrect',  // Resurrect what was once alive.
   commit: 'save',         // Commit your code to the Lord and it will be saved.
